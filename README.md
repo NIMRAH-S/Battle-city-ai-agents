@@ -63,6 +63,7 @@ cd battle-city-ai
 pip install pygame
 3. Run the game
 python "battle_city (1) (1).py"
+
 ---
 
 ## 🎮 Controls
@@ -83,3 +84,5 @@ Optimized for educational demonstration of multiple AI strategies
 ## ⭐ If you like this project
 
 Feel free to star the repository and explore the AI logic!
+
+---
