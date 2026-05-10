@@ -63,6 +63,7 @@ cd battle-city-ai
 pip install pygame
 3. Run the game
 python "battle_city.py"
+---
 
 ---
 
