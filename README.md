@@ -64,16 +64,22 @@ pip install pygame
 3. Run the game
 python "battle_city (1) (1).py"
 
+---
+
 ## 🎮 Controls
 
 **Move:** Arrow Keys / W A S D
 **Shoot:** SPACE (with cooldown timing)
+
+---
 
 ## 📌 Notes
 
 Designed as an AI learning project for pathfinding and adversarial search algorithms
 Focuses on applying academic AI concepts in real-time gameplay
 Optimized for educational demonstration of multiple AI strategies
+
+---
 
 ## ⭐ If you like this project
 
