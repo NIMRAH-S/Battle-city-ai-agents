@@ -62,11 +62,11 @@ cd battle-city-ai
 2. Install dependencies
 pip install pygame
 3. Run the game
-python "battle_city (1) (1).py"
+python "battle_city.py"
 
 ---
 
-## 🎮 Controls
+### 🎮 Controls
 
 - **Move:** Arrow Keys / W A S D  
 - **Shoot:** SPACE (with cooldown timing)
@@ -75,14 +75,12 @@ python "battle_city (1) (1).py"
 
 ## 📌 Notes
 
-Designed as an AI learning project for pathfinding and adversarial search algorithms
-Focuses on applying academic AI concepts in real-time gameplay
-Optimized for educational demonstration of multiple AI strategies
+- Designed as an AI learning project for pathfinding and adversarial search algorithms
+- Focuses on applying academic AI concepts in real-time gameplay
+- Optimized for educational demonstration of multiple AI strategies
 
 ---
 
 ## ⭐ If you like this project
 
 Feel free to star the repository and explore the AI logic!
-
----
